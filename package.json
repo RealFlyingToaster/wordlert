@@ -1,0 +1,25 @@
+{
+  "name": "wordlert",
+  "version": "1.0.0",
+  "description": "Bot for Wordle.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RealFlyingToaster/wordlert.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RealFlyingToaster/wordlert/issues"
+  },
+  "homepage": "https://github.com/RealFlyingToaster/wordlert#readme",
+  "dependencies": {
+    "puppeteer": "^13.1.3"
+  }
+}
